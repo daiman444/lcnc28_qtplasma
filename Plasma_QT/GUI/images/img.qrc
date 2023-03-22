@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="img">
+    <file>estop_off.svg</file>
+    <file>estop_on.svg</file>
+    <file>power-off.svg</file>
+    <file>power-on.svg</file>
+    <file>refresh.svg</file>
+    <file>window_close.svg</file>
+    <file>window_collapse.svg</file>
+    <file>window_max.svg</file>
+    <file>window_min.svg</file>
+  </qresource>
+</RCC>

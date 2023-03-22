@@ -1,0 +1,3 @@
+#root_window.attributes("-zoomed",1)
+#root_window.attributes('-fullscreen', True)
+commands.set_view_z2()

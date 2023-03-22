@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Name=Plasma_QT
+Exec=linuxcnc /home/ddd/YD/Linux/Linux_&_CNC/GUI/QT/Plasma_QT(sources)/Plasma_QT/Plasma_QT.ini
+Type=Application
+Comment=Run config
+Icon=/usr/share/linuxcnc/linuxcncicon.png
+Path=
+StartupNotify=false
